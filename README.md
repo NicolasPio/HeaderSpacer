@@ -4,10 +4,14 @@
 HeaderSpacer will hide the header when the page scroll down and show again when page scroll up.
 
 ## Usage
-First add HeaderSpacer in your HTML
+Install via Bower
+
+`$ bower install --save HeaderSpacer`
+
+Add HeaderSpacer in your HTML
 
 ```html
-<script async src="dist/headerspacer.js"></script>
+<script async src="bower-path/headerspacer/dist/headerspacer.min.js"></script>
 ```
 
 And add `data-header-spacer` attribute in your header
