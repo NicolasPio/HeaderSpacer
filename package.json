@@ -1,0 +1,22 @@
+{
+  "name": "headerspacer",
+  "version": "0.1.0",
+  "description": "Save space in mobile screen hiding header",
+  "main": "dist/headerspacer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "save",
+    "space",
+    "hide",
+    "header"
+  ],
+  "author": "Nicolas Pio <nicolaspiof@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  }
+}

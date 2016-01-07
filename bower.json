@@ -1,0 +1,24 @@
+{
+  "name": "HeaderSpacer",
+  "authors": [
+    "Nicolas Pio <nicolaspiof@gmail.com>"
+  ],
+  "description": "Save space in mobile screen hiding header",
+  "main": "dist/headerspacer.js",
+  "moduleType": ["globals"],
+  "keywords": [
+    "save",
+    "space",
+    "hide",
+    "header"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
