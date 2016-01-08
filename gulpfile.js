@@ -12,14 +12,6 @@ gulp.task('compress', function() {
 		.pipe(gulp.dest(distJS));
 });
 
-gulp.task('standard', function () {
-    return gulp.src(fileJS)
-        .pipe(standard())
-        .pipe(standard.reporter('default', {
-            breakOnError: false
-        }));
-});
-
 gulp.task('watch', function() {
 	gulp.watch(fileJS, ['compress']);
 });

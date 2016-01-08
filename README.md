@@ -11,7 +11,7 @@ Install via Bower
 Add HeaderSpacer in your HTML
 
 ```html
-<script async src="bower-path/headerspacer/dist/headerspacer.min.js"></script>
+<script async src="bower-path/HeaderSpacer/dist/headerspacer.min.js"></script>
 ```
 
 And add `data-header-spacer` attribute in your header
